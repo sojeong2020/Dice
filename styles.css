@@ -1,6 +1,29 @@
-body {
-    background-color:grey;
+.container {
+         width: 70%;
+         margin: auto;
+         text-align: center;
+}
+.dice {
+    display: inline-block;
     text-align: center;
-    color: green;
-    size: 3rem;
+
+}
+body {
+    background-color: #6f9eaf;
+    }
+
+h1 {
+   font-family: 'Yusei Magic', sans-serif,cursive;
+   font-size: 7rem;
+   color:#c7753d;
+   text-shadow: 5px 0 #cc7351
+   margin: 30px;
+}
+p {
+    font-size: 2rem;
+    color:#f6d887;
+    font-family:'Hachi Maru Pop', cursive;
+}
+img {
+    width: 80%;
 }
