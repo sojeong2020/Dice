@@ -16,7 +16,7 @@ h1 {
    font-family: 'Yusei Magic', sans-serif,cursive;
    font-size: 7rem;
    color:#c7753d;
-   text-shadow: 5px 0 #cc7351
+   text-shadow: 5px 0 #64250c;
    margin: 30px;
 }
 p {
@@ -26,4 +26,10 @@ p {
 }
 img {
     width: 80%;
+}
+footer {
+    text-align: center;
+    color:#802f0f;
+    margin-top:15px;
+
 }
